@@ -3,3 +3,9 @@ build/
 *.log
 .env*
 /.history
+.claude/
+.cursor/
+.mission/
+.remember/
+AGENTS.md
+CLAUDE.md
